@@ -1,7 +1,6 @@
 import time
 import socket
 import math
-# Update
 
 def connection():
     while 1:
